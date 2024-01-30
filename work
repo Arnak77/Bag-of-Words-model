@@ -1,1 +1,13 @@
+# Importing the libraries
 
+# Importing paragraph
+
+# Cleaning the texts
+
+# re libray will use for regular expression 
+
+# Create the empty list name as corpus becuase after cleaned the data corpus will store this clean data
+
+# Creating the Bag of Words model 
+
+# Also we called as document matrix 
